@@ -1,4 +1,4 @@
-package com.example.screenmatch_frases;
+package com.aluracursos.screenmatch_frases;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
